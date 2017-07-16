@@ -1,5 +1,7 @@
 # Quantified Self Backend
 #### This app is built with Node.js & Express.js; it provides an API to be used with the Quantified Self Frontend.
+The live app is found here: https://ms-vv-quantified-self.herokuapp.com/
+The front-end that the app serves is found here: https://victoriavasys.github.io/QS-Frontend/
 
 ## Node/Express Development Setup
 1. Clone this repo
